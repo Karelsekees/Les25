@@ -1,0 +1,21 @@
+nav{
+    background-color: rgb(44, 98, 169);
+}
+
+footer {
+    background-color: rgb(44, 98, 169);
+    text-align: center;
+    color: white;
+    font-size: large;
+    bottom: 0%;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+}
+.voetje{
+    margin-top: 11px;
+}
+#accordion{
+    padding-top: 50px;
+    margin: auto;
+}
